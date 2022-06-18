@@ -11,5 +11,5 @@ create a .env file copy the contents of env example
 
 Enter your MongoURI in .env file
 
-use command npm runs start
+use command npm run start
 
